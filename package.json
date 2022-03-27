@@ -1,0 +1,24 @@
+{
+    "name": "vscode-python",
+    "displayName": "vscode-python",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-python.git"
+    },
+	"icon": "icon.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+		"ms-toolsai.jupyter-keymap",
+		"ms-toolsai.jupyter-renderers",
+		"ms-python.vscode-pylance",
+		"ms-python.python"
+    ]
+}
