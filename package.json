@@ -16,9 +16,9 @@
         "Extension Packs"
     ],
     "extensionPack": [
-		"ms-toolsai.jupyter-keymap",
-		"ms-toolsai.jupyter-renderers",
+		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"ms-python.python"
+		"ms-toolsai.jupyter-keymap",
+		"ms-toolsai.jupyter-renderers"
     ]
 }
